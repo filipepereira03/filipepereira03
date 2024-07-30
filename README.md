@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @filipepereira03
-- 👀 I’m interested in cybersecurity and programming in general
-- 🌱 Currently pursuing a degree in Software Engineering at PUCRS
-- 📫 How to reach me: filipe.pereira002@edu.pucrs.br
+Hi, I'm Filipe Pereira
 
-<!---
-filipepereira03/filipepereira03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently pursuing a degree in Software Engineering at PUCRS
+
+I am actively working on various projects to enhance my skills and apply my knowledge in practical scenarios.
+
+You can reach me at lipepereira2003@gmail.com
